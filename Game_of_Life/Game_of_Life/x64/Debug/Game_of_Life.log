@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\cpp practice\Game_of_Life\Game_of_Life\main.cpp(101,19): warning C4305: '=': truncation from 'int' to 'bool'
+D:\cpp practice\Game_of_Life\Game_of_Life\main.cpp(102,19): warning C4305: '=': truncation from 'int' to 'bool'
+D:\cpp practice\Game_of_Life\Game_of_Life\main.cpp(103,19): warning C4305: '=': truncation from 'int' to 'bool'
+D:\cpp practice\Game_of_Life\Game_of_Life\main.cpp(104,19): warning C4305: '=': truncation from 'int' to 'bool'
+  Game_of_Life.vcxproj -> D:\cpp practice\Game_of_Life\x64\Debug\Game_of_Life.exe
